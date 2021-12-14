@@ -1,0 +1,35 @@
+body{
+    background: rgb(201, 201, 6);
+}
+
+ h1, p, footer{
+    color: rgba(109, 30, 82, 0.918);
+}
+
+
+aside{
+    margin-top: 8em;
+}
+
+.container-aside{
+    padding: 1em 0 1em 1em;
+    margin: 1em 0 0 4em;
+    background: white;
+    font-size: 13pt;
+
+    width: 10%;
+}
+
+
+
+.container-title{
+    margin: -16em auto auto 25em;
+    font-size: 15pt;
+
+}
+.container-footer{
+    margin-top: 2em;
+    margin-left: 23.6em;
+    font-size: 16pt;
+    line-height: 3em;
+}
